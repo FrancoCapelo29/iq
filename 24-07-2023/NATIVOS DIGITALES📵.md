@@ -1,0 +1,2 @@
+<h1>Que son los nativos digitales?</h1>
+<p>Los nativos digitales son aquellas personas que han nacido y crecido en la era digital y que , por lo tanto, tienen un mayor conocimiento y habilidad en el uso de la tecnología , como computadoras, internet, teléfonos móviles, entre otros dispositivos y herramientas digitales. Estas personas suelen tener una mayor fluidez en su uso y un mayor nivel de adaptación a las nuevas tecnologías en comparación con las generaciones anteriores.</p>
