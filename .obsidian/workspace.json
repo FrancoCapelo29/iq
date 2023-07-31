@@ -4,69 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6cc85ccc315d575b",
+        "id": "44375ed3250927b9",
         "type": "tabs",
         "children": [
           {
-            "id": "2f3701abd40e8ad3",
+            "id": "df1bb7c343e70ed2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d86888fd56ece91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "24-07-2023/NATIVOS DIGITALES📵.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "016d8e9d04880a01",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "24-07-2023/deja-huella.jpg"
-              }
-            }
-          },
-          {
-            "id": "e60a01dc3873d2a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "24-07-2023/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d92c679218f7b45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "class/25'07'2023/PYTHON💻.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "class/25'07'2023/PYTHON💻.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "class/25'07'2023/PYTHON💻.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "class/25'07'2023/PYTHON💻.md"
               }
             }
           }
@@ -193,16 +146,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7d92c679218f7b45",
+  "active": "df1bb7c343e70ed2",
   "lastOpenFiles": [
-    "24-07-2023/Untitled.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "24-07-2023/deja-huella.jpg",
-    "24-07-2023/Zombi🧟.canvas",
-    "24-07-2023",
-    "24-07-2023/NATIVOS DIGITALES📵.md",
+    "class/24-07-2023/Zombi🧟.canvas",
+    "class/24-07-2023/NATIVOS DIGITALES📵.md",
+    "class/24-07-2023/IQ🧠.md",
+    "class/25'07'2023/PYTHON💻.md",
+    "class/24-07-2023/Untitled.md",
+    "class/24-07-2023/Untitled 1.md",
     "README.md",
-    "24-07-2023/IQ🧠.md"
+    "class",
+    "class/25'07'2023/Untitled.canvas",
+    "class/25'07'2023",
+    "class/imagenes/deja-huella.jpg",
+    "Untitled/Untitled.md",
+    "class/imagenes",
+    "Untitled 1.md",
+    "class/24-07-2023"
   ]
 }

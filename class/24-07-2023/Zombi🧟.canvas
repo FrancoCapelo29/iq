@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"type":"text","text":"Los nativos digitales y si IQ🧟\nLos estudios muestran que los nativos digitales tienen un coeficiente intelectual (CI) más bajo que el de las generaciones anteriores , lo que ha generado cierta preocupación en torno a los efectos de la tecnología en el desarrollo cognitivo. Sin embargo, también es importante tener en cuenta que existen distintos tipos de inteligencia y que el CI no es la única medida de la capacidad cognitiva.","id":"cf83470e3e08b89d","x":-107,"y":-297,"width":547,"height":217,"color":"1"},
-		{"type":"file","file":"24-07-2023/deja-huella.jpg","id":"cc609ffde489b2d3","x":-200,"y":-662,"width":400,"height":242},
+		{"type":"file","file":"class/imagenes/deja-huella.jpg","id":"cc609ffde489b2d3","x":-200,"y":-662,"width":400,"height":242},
 		{"type":"text","text":"# Que son los nativos digitales? 📵\n\nLos nativos digitales son aquellas personas que han nacido y crecido en la era digital y que , por lo tanto, tienen un mayor conocimiento y habilidad en el uso de la tecnología , como computadoras, internet, teléfonos móviles, entre otros dispositivos y herramientas digitales. Estas personas suelen tener una mayor fluidez en su uso y un mayor nivel de adaptación a las nuevas tecnologías en comparación con las generaciones anteriores.","id":"a0e4d9ca1f8cee48","x":340,"y":-840,"width":440,"height":380,"color":"6"}
 	],
 	"edges":[
