@@ -1,0 +1,2 @@
+<p>AlphaGo es un programa informático de inteligencia artificial desarrollado por Google DeepMind para jugar al juego de mesa Go, utilizando la combinación de técnicas de aprendizaje automático y redes neuronales profundas. El programa ganó fama mundial en 2016 después de derrotar al campeón del mundo de Go, Lee Sedol, en una serie de partidas históricas. Desde entonces, AlphaGo ha sido considerado como un hito significativo en el desarrollo de la inteligencia artificial y ha llevado a importantes avances en la ciencia computacional.</p>
+
